@@ -1,0 +1,4 @@
+COS3024 4 credits
+COS3033 3 credits
+CPR3023 4 credits
+CDB3023 3 credits
